@@ -10,3 +10,18 @@ SPECIAL THANKS TO All Member XCODED-45
 
 SALAM HANGAT...
 ```
+
+```
+Installations Tools
+
+Termux & Linux OS
+
+$ git clone https://github.com/N00B1337-Dev/OSINT_PhoneLookup
+
+$ cd OSINT_PhoneLookup
+
+$ apt install jq
+
+$ bash doxx.sh
+
+```
